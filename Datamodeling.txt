@@ -1,4 +1,1 @@
-1- %s %S in sql !?
-2- Fetchone() in sql
-3- set up locally 
-4- set up docker
+1- set up docker
