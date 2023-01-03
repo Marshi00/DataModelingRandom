@@ -1,1 +1,4 @@
-1- set up docker
+1- set up the docker
+2- learn docker and possible visualization and how to use
+3-graphical Cassandra
+4-
