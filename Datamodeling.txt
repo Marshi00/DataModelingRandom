@@ -1,4 +1,5 @@
 1- set up the docker
 2- learn docker and possible visualization and how to use
 3-graphical Cassandra
-4-
+4-can I save the docker, and does it keep the data? same goes saving postgre
+5- two types of query 1- insert *** values %S%S%S% , () 2- query = inser *** / query = query + values %S%S%S% / cur.execute(query, (items)). type 2 better for no SQL( pre defined Qs ) 
